@@ -46,18 +46,15 @@ Save quick notes in a sticky note style. Search notes by tags, change background
 - [ ] **Multi-language** support.
 
 ## FAQ :question:
-<details>
-    <summary>When's focusplanet coming out?</summary>
-    <p>This project is in planning phase, so we can't set a release date just yet.</p>
-</details>
-<details>
-    <summary>Where are you sharing details about the project?</summary>
-    <p>You can learn more about the project for <b>FREE</b> on <a href="https://patreon.com/c/IsaacAragonDEV" class="cta">Patreon</a>.</p>
-</details>
-<details>
-    <summary>Why WinForms?</summary>
-    <p>WinForms offer simple controls and great compatibility with old Windows machines. The goal is to make this app work great in most PCs.</p>
-</details>
+
+### When's focusplanet coming out?
+This project is in planning phase, so we can't set a release date just yet.
+
+### Where are you sharing details about the project?
+You can learn more about the project for **FREE** on [Patreon](https://patreon.com/c/IsaacAragonDEV).
+
+### Why WinForms?
+WinForms offer simple controls and great compatibility with old Windows machines. The goal is to make this app work great in most PCs.
 
 ## Special thanks :heart:
 ### Patrons :moneybag:
