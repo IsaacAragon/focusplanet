@@ -1,11 +1,14 @@
 # focusplanet :rocket:
-[Become a Patreon](https://patreon.com/c/IsaacAragonDEV) | [Join the Discord server](https://discord.gg/RaBfgfJKVk) | [License](LICENSE)
+
+[Become a Patreon](https://patreon.com/c/IsaacAragonDEV) | [Follow me on X](https://x.com/IsaacOpenSource) | [MIT License](LICENSE)
 
 ![winforms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![c-sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![license](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) ![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![license](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 ## Description :notebook_with_decorative_cover:
 focusplanet will be a **free** and **open-source** time management app that allows you to focus on **your goals**, **plans** and **tasks** with just a single app.
 Currently in the planning phase, focusplanet will be developed using **WinForms** and **C#**.
+
 ## Development :hammer_and_wrench:
 - [x] Planning phase
 - [ ] Development phase
@@ -51,15 +54,18 @@ Save quick notes in a sticky note style. Search notes by tags, change background
 This project is in planning phase, so we can't set a release date just yet.
 
 ### Where are you sharing details about the project?
-You can learn more about the project for **FREE** on [Patreon](https://patreon.com/c/IsaacAragonDEV).
+You can learn more about the project for **FREE** on [Patreon](https://patreon.com/c/IsaacAragonDEV). Also, you can follow me on X [here](https://x.com/IsaacOpenSource).
 
 ### Why WinForms?
 WinForms offer simple controls and great compatibility with old Windows machines. The goal is to make this app work great in most PCs.
 
 ## Special thanks :heart:
+
 ### Patrons :moneybag:
 This section will feature the names of all **Member++** and **Member#** patrons once they subscribe. You can become a Patreon [here](https://patreon.com/c/IsaacAragonDEV).
+
 ### Resources :books:
 - [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile): Profile badges made with shields.io.
+
 ## License :scroll:
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
