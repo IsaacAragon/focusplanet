@@ -1,52 +1,30 @@
 # focusplanet :rocket:
+Productivity made easy: free and open-source task management app for Windows.
 
-[Become a Patreon](https://patreon.com/c/IsaacAragonDEV) | [Follow me on X](https://x.com/IsaacOpenSource) | [MIT License](LICENSE)
+[![Patreon](https://img.shields.io/badge/-Support-orange?style=for-the-badge&logo=patreon)](https://patreon.com/c/IsaacAragonDEV)
+[![X](https://img.shields.io/badge/-Follow-black?style=for-the-badge&logo=x)](https://x.com/IsaacOpenSource)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-![winforms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![c-sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) ![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![license](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-## Description :notebook_with_decorative_cover:
-focusplanet will be a **free** and **open-source** time management app that allows you to focus on **your goals**, **plans** and **tasks** with just a single app.
-Currently in the planning phase, focusplanet will be developed using **WinForms** and **C#**.
+## Summary :notebook_with_decorative_cover:
+Developed in **C#** with **WinForms**, **focusplanet** will be a free and open-source **time management app** for Windows. The app aims to help users organize their tasks, set objectives and write quick notes in a fast and easy way. The project is currently in the **planning** phase.
 
 ## Development :hammer_and_wrench:
-- [x] Planning phase
-- [ ] Development phase
-- [ ] Testing phase
-- [ ] Release phase
 
-Some **features planned for launch** include:
+### Features :gear:
+Some **features planned** include:
 
-### Tasks management :clipboard:
-**Create tasks**, organize them into **task lists**, add **due dates**, **repetitions**, **notes** and assign a **task priority**.
+#### Tasks management :clipboard:
+**Create tasks**, organize them into **task lists**, add **due dates**, **repetitions**, **notes** and assign a **task priority**. Just like a good old to-do list. 
 
-### Set objectives :dart:
+#### Set objectives :dart:
 Add objectives and achieve your goals. When you select an objective, it will appear on the **main screen** with the number of **completed days** (streak system).
 
-### Write quick notes :memo:
-Save quick notes in a sticky note style. Search notes by tags, change background color and more.
+#### Write quick notes :memo:
+Save **quick notes** in a sticky note style. Search notes by **tags**, change *background color* and more.
 
 ## Roadmap :world_map:
-
-### Current :hourglass_flowing_sand:
-
-- [x] Start a **Patreon** to share details about the project ([here](https://patreon.com/c/IsaacAragonDEV)). 
-- [x] Create the **focusplanet** repository.
-- [ ] Publish a **website** for the project.
-- [ ] Start the **development phase**.
-- [ ] Share the first **pre-release version** to all public for feedback.
-- [ ] Release the first stable version in **GitHub**.
-
-### Desired :star:
-
-- [ ] Release on the **Microsoft Store**.
-- [ ] **Dropbox.API** integration.
-- [ ] **Weather** home screen widget.
-- [ ] Included **Calendar**.
-- [ ] ":tomato:" **timer**.
-- [ ] **Project** management.
-- [ ] Built-in **notebook**.
-- [ ] **Multi-language** support.
+See the full roadmap [here](ROADMAP.md).
 
 ## FAQ :question:
 
@@ -61,11 +39,11 @@ WinForms offer simple controls and great compatibility with old Windows machines
 
 ## Special thanks :heart:
 
-### Patrons :moneybag:
+### Patrons :star:
 This section will feature the names of all **Member++** and **Member#** patrons once they subscribe. You can become a Patreon [here](https://patreon.com/c/IsaacAragonDEV).
 
 ### Resources :books:
 - [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile): Profile badges made with shields.io.
 
 ## License :scroll:
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the [MIT LICENSE](LICENSE).
